@@ -1,4 +1,4 @@
-#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
+
 
 import os
 import requests
@@ -79,4 +79,5 @@ def update_github_file():
         print(f"Terjadi error yang tidak terduga: {e}")
 
 if __name__ == "__main__":
+
     update_github_file()
