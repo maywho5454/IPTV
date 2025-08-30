@@ -3409,19 +3409,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #https://raw.githubusercontent.com/eepunx/cancan/main/sc
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",SCTV (AG)
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/brh5EU7.jpeg" group-title="NASIONAL",SCTV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/bjNCrmL.jpeg" group-title="NASIONAL",Indosiar (AG)
@@ -3521,25 +3515,23 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_s
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",Trans 7 HD 2 ON (AG)
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/WSnhDLn.jpeg" group-title="NASIONAL",Trans 7 HD 2 ON (R)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 ===========
 ===========
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL", MENTARI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRFZS.mpd?encp=&uid=&expp=
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="NASIONAL" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/xtbagd5.jpeg" ,Mentari TV
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/xtbagd5.jpeg" group-title="NASIONAL", MENTARI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?encp=&uid=&expp=
 -------
 
 
@@ -3628,9 +3620,6 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/6y8Bum2.jpeg" group-title="NASIONAL", MOJI EVENT
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 
 
 sdsf
@@ -3970,16 +3959,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
 =======EDT [21/11/2024]
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK", MENTARI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRFZS.mpd?encp=&uid=&expp=
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" group-title="ANAK", MENTARI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?encp=&uid=&expp=
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="ANAK" tvg-id="MentariTV.id" tvg-name="Mentari TV" tvg-logo="https://i.imgur.com/sLaNQYS.jpeg" ,Mentari TV
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+
 
 #EXTINF:-1 group-title="ANAK" tvg-id="aniplus.id" tvg-logo="https://i.imgur.com/X3M5t4B.jpeg",ANIPLUS 1 ON
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -4060,12 +4046,11 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 ===
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-#EXTINF:-1 group-title="ANAK"  tvg-logo="https://i.imgur.com/x7vBeiA.jpeg",DUNIA ANAK 1 ON (RM)
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x7vBeiA.jpeg" group-title="ANAK",DUNIA ANAK 1 ON (RM)
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTVLCOPT:network-caching=1000
@@ -4233,19 +4218,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 1 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/WoZKvR1.jpeg" group-title="OLAHRAGA LOKAL",SPOTV 2 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 FILM
@@ -4435,11 +4407,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr1.manggatv09.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Warner.id" tvg-name="Warner" tvg-logo="https://i.imgur.com/zUjyByh.jpeg" group-title="FILM",Warner TV (AG)
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 ====EDT 2 [17/11/2024]
 
@@ -4483,14 +4450,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pCKlKJq.jpeg" group-logo="" group-title="FILM",BollywooD Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/91wxxvj.jpeg"" group-title="FILM",Celestial Movies (AG 1)
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM",Celestial Movies (AG 1)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4498,7 +4463,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/91wxxvj.jpeg"" group-title="FILM",Celestial Movies (AG 2)
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM",Celestial Movies (AG 2)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91wxxvj.jpeg" group-title="FILM",Celestial Movies (AG 3)
@@ -4515,16 +4480,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 #EXTINF:-1 tvg-id="CCM.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/byz5X8l.jpeg" group-title="FILM",Celestial Classic (AG)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/GOJiQSM.jpeg" group-title="FILM",Drama World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
-##KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/media.php?id=204&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOJiQSM.jpeg " group-title="FILM",FLIK
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -4962,25 +4917,6 @@ OLAHRAGA | MOTOR GP
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/mWEMiPZ.jpeg",OLAHRAGA | MOTOR GP
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",Sky Sports F1 DE (AGGP)
-https://events3.liveboxpro.com/event/274.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP",Sky Sport MotoGP Italy (AG)
-https://events3.liveboxpro.com/event/575.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg"" group-title="OLAHRAGA | MOTOR GP",CANAL+ MotoGP France (AG)
-https://events3.liveboxpro.com/event/271.m3u8
-
-
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | MOTOR GP", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5023,19 +4959,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 1 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/6eyIvTq.jpeg" group-title="OLAHRAGA | MOTOR GP",SPOTV 2 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 ================================
 
@@ -5127,15 +5051,7 @@ https://disyw7xcmhink.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP", This Old House (AG)
 https://content.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Drama World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
-##KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/media.php?id=204&type=drm
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://terabit.web.id/media.mpd?id=204&type=dash
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -5217,21 +5133,19 @@ NEW 4/8/2025
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Food Network
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Food Network (FAG)
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/k8RQgiu.jpeg" group-title="GAYA HIDUP",Asian Food Network 1 ON
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+
+
 
 #EXTINF:-1 group-title="GAYA HIDUP" tvg-id="SONE" tvg-url="https://i.imgur.com/DGiqSFD.jpeg",ONE 1 ON (R)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -5297,14 +5211,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://i.imgur.com/AVDVcZ3.jpeg" group-title="GAYA HIDUP", Food Travel (AG)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/AVDVcZ3.jpeg",Citra Bioskop (AG)
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/AVDVcZ3.jpeg",Citra Bioskop (FAG)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 group-title="GAYA HIDUP" tvg-logo="https://i.imgur.com/AVDVcZ3.jpeg",Citra Dangdut ON
@@ -5809,13 +5719,12 @@ NEW 24/6/2025
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",AstroCitra
 https://wahyu1ptv.pages.dev/AstroCitra-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",AstroRania
-https://wahyu1ptv.pages.dev/AstroRania-HD.m3u8
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-id="103" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3 (AG)
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml" tvg-id="103" group-title="DUNIA | MALAYSIA" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg",TV3 (FAG)
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/refs/heads/main/channels/Tv3/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="DUNIA | MALAYSIA",APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
@@ -6114,39 +6023,8 @@ GOLF
 #EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="OLAHRAGA | GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg,Astro Golf
 https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Sky Sports Golf UK (AG)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTg2ZTEzZTk2ZTQzLThiMmEtYzkxNC04ODNhLTM5MThlZGQz/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMiFDN5M2MyQDZmJWL1IDMi1SOkBDNtgTY5UTL2gjNhJjZwI2L.m3u8
-https://events3.liveboxpro.com/event/70.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Sky Sports Golf Italy (AG)
-https://events3.liveboxpro.com/event/574.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",Movistar Golf Spain
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3YWYwQTNlRGM2gjYtImMygTLhNmM00yMhJDMtQTZkJWOzgzY/master.m3u8
-https://events3.liveboxpro.com/event/528.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF",SKY SPORTS GOLF
-http://vipppygnn.top:8080/VIP010171084868258/77ab06530ab6/1669
-
-#EXTINF:-1  tvg-name="Sky Sports Golf FHD" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",Sky Sports Golf FHD
-https://a1xs.vip/2000009
-
 #EXTINF:-1  tvg-name="Sky Sport Top Event FHD" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",DE: Sky Sport Top Event FHD
 https://a1xs.vip/120003
-
-#EXTINF:-1  tvg-name="Sky BOLA | LIGA INGGRIS  FHD" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://i.imgur.com/sInIG51.jpeg" group-title="OLAHRAGA | GOLF" radio="false",Sky BOLA | LIGA INGGRIS  FHD
-https://a1xs.vip/2000008
 
 ==========
 OLAHRAGA | VOLLYBALL
@@ -6179,9 +6057,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 http://cdn.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 
 
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL", MOJI EVENT
-https://raw.githubusercontent.com/quuen2024/oy/refs/heads/queen/moj1.m3u8
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 
 
 
@@ -6198,19 +6073,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 1 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/dSA83Hx.jpeg" group-title="OLAHRAGA | VOLLYBALL",SPOTV 2 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 ================================
 
 ---------NEW 3/6/2025
@@ -6260,6 +6123,14 @@ OLAHRAGA | BADMINTON
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/P47cFSh.jpeg",OLAHRAGA | BADMINTON
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Star Sports Select 1 HD
+https://maldivesn.net/hilaytv/starsportsselect1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",Star Sports Select 2 HD
+https://maldivesn.net/hilaytv/starsportsselect2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",SPOTV 1 (I) (WORTH)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -6272,19 +6143,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",SPOTV 1 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo=https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",SPOTV 2 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",ASTRO BADMINTON 3 (MH)
 https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
@@ -6902,19 +6761,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA POPULER",SPOTV 1 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo=https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA POPULER",SPOTV 2 (JN)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 group-title="OLAHRAGA POPULER" tvg-id="SSC 1" tvg-logo="https://i.imgur.com/XDDHZzi.jpeg", SSC 1
@@ -6982,44 +6828,6 @@ END |OLAHRAGA POPULER
 FORMULA 1
 ===========
 #EXTINF:-1 group-logo="https://i.imgur.com/YNcq1yN.jpeg",OLAHRAGA | FORMULA 1
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",DAZN F1 ES (AG)
-https://events3.liveboxpro.com/event/537.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",Sky Sport F1 Italy (AG)
-https://events3.liveboxpro.com/event/577.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1",Sky Sports F1 DE (AGGP)
-https://events3.liveboxpro.com/event/274.m3u8
-
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="OLAHRAGA | FORMULA 1",Sky Sports F1 UK (AG)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE14U3Mt5yc05ybu9WbvETYtM3ajFmc09iYzMzYhFWOyQGZyQWLyQ2Y50CMzMDNtMGZyETL2YDMlRTO1gzL.m3u8
-https://events3.liveboxpro.com/event/60.m3u8
-
-
-#EXTINF:-1  tvg-name="Sky Sports F1 FHD" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg" group-title="OLAHRAGA | FORMULA 1" radio="false",Sky Sports F1 FHD (US)
-https://a1xs.vip/2000005
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="sky.sports.f1.gb" group-title="OLAHRAGA | FORMULA 1"" tvg-logo="https://i.imgur.com/YNcq1yN.jpeg",Sky Sports F1 FHD (USAG)
-http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://i.imgur.com/mWEMiPZ.jpeg" group-title="OLAHRAGA | FORMULA 1", beIN Sports 1 ID (R)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -7332,150 +7140,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 
 #EXTINF:-1 group-logo="https://i.imgur.com/pm6ULZT.jpeg",BOLA | LIGA INGGRIS 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Sky sports Premier League (TES)
-##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8|referer=https://www.vidembed.re/
-##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iMhFWNjRDZwITZmJTLjhjMi1SNlhDNtEjZwEWL0QTOwETN1gzL.m3u8|referer=https://www.vidembed.re/
-https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8|referer=https://webxzplay.cfd/
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",UNIVERSO (TES)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8|referer=https://www.vidembed.re/
+=========================================================================================================
+LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+COVER BARU LIVE LIGA INGGRIS "https://i.imgur.com/FjKJyFG.jpeg"
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",USA Network (TES)
-##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
-https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="NBC.Universo.-.Eastern.feed.us" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Universo (TES)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8|referer=https://www.vidembed.re/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",beIN Sports MENA English 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium61/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN Brasil
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium81/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Diema Sport 2 Bulgaria (AG)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium466/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Diema Sport 3 Bulgaria (AG)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium467/mono.m3u8
-
-
-===========================================
-NEW 21/8/2025 - NEW 21/8/2025- NEW 21/8/2025
-============================================
-
-#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ", NBC SPORTS (AGF)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS "  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg", NBC Sport (AGF 2)
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-
-===========================================
-NEW 21/8/2025 - NEW 21/8/2025- NEW 21/8/2025
-============================================
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ", FUBO SPORTS (AG) (R)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",FUBO SPORTS 2 (AG)(R)
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg group-title="BOLA | LIGA INGGRIS",Sky Sports Premier League (FHD)
-https://7pal.short.gy/ssportspl
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS", Premier League TV (AG)
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",Astro Grandstand (AG)
-https://events3.liveboxpro.com/event/123.m3u8
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L0kDO2EmZlBDZyEzMtkjZxIWLzQGO00SMhRzMtAjZjRjN1EWN/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f4028730acca9ab8b00f26158ddb10:91febe843c08c7cc523efd827292e40e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",Astro Football (JL)
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/2506/default_ott.mpd
-====================
-REPAIR ASTRO
-
-#EXTVLCOPT:http-origin=https://www.vidembed.re
-#EXTVLCOPT:http-referrer=https://www.vidembed.re/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",Astro Premier League (AGT)
-https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/variant/VE1AO1NTbu8mbv12LxEWM21ycrNWYyR3L3cTOhNmZ4UWZ2E2YtcjZ0kTLzYzN00iY0QmYtY2MmRTM3QTY/master.m3u8
-====================
--------FILE SBLMNYA DI HAPUS
-
-====================
-REAPIR ASTRO
-
-====================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",AstroFootball (1AG)
-https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS ",AstroFootball (AG)
-https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
-
-==========================
-=SKY SPORT 2,3,4,5,8
-==========================
-#EXTINF:-1  tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 2 NZ
-https://a1xs.vip/700032
-#EXTINF:-1  tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 3 NZ
-https://a1xs.vip/700033
-#EXTINF:-1  tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 4 NZ
-https://a1xs.vip/700034
-#EXTINF:-1  tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",SKY Sport 5 NZ
-https://a1xs.vip/700035
-#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS" radio="false",Sky Sport 8 - Premier League NZ
-https://a1xs.vip/700008
-
-=============================
-=SKY SPORT 2,3,4,5,8
-============================
-
-#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",TNT SPORTS 1 FHD
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 1 Tnt Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7483,48 +7154,12 @@ https://a1xs.vip/700008
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",067. ArenaPremium1
-https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",068. ArenaPremium2
-https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",069. ArenaPremium3
-https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="PeacockTV" group-title="BOLA | LIGA INGGRIS"  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg,PeacockTV Premier League (R)
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="BOLA | LIGA INGGRIS" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg",Peacock 1 (R)
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",070. ElevenSport1
-https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",071. ElevenSport2
-https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
-
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo=""https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",072. ElevenSport3
-https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
-
-===============================================================================================================================================================
-FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 13/8/2025 
-===============================================================================================================================================================
-=========================
-FUBO
-=========================
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS", FUBO SPORTS (FEAG)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 2 FUBO SPORTS
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
@@ -7533,143 +7168,133 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
-#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",FUBO SPORTS 2 (FEAG)
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 3 FUBO SPORTS 2 
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 1
+##https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8|referer=https://www.vidembed.re/
+https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8|referer=https://webxzplay.cfd/
 
-==========================
-DAZN
-==========================
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 2
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 4 USA Network 3
+https://tvpass.org/live/USANetworkEast/hd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS ",LIVE 5  NBC SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 7
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 8 Star Sports Select 1 HD
+https://maldivesn.net/hilaytv/starsportsselect1
 
-=========================
-ARENA SPORT
-=========================
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 9 Star Sports Select 2 HD
+https://maldivesn.net/hilaytv/starsportsselect2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 10  ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",LIVE 11 HUB PREMIER 1
+http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed SD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",Telemundo Eastern Feed SD
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="BOLA | LIGA INGGRIS",Telemundo Eastern Feed HD
+https://tvpass.org/live/TelemundoEast/hd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ArenaPremium1
+https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ArenaPremium2
+https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ArenaPremium3
+https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ElevenSport1
+https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ElevenSport2
+https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ElevenSport3
+https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Bay Area SD
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Bay Area HD
+https://tvpass.org/live/nbc-sports-bay-area/hd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston SD"  tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Boston SD
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="nbc-sports-boston" tvg-name="NBC Sports Boston HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Boston HD
+https://tvpass.org/live/nbc-sports-boston/hd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California SD" group-title="BOLA | LIGA INGGRIS",NBC Sports California SD
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1 tvg-id="nbc-sports-california" tvg-name="NBC Sports California HD" group-title="BOLA | LIGA INGGRIS",NBC Sports California HD
+https://tvpass.org/live/nbc-sports-california/hd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Philadelphia SD
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC Sports Philadelphia HD
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (KNBC) Los Angeles SD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (KNBC) Los Angeles HD
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/hd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (WNBC) New York, NY SD
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",NBC (WNBC) New York, NY HD
+https://tvpass.org/live/WNET/hd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN U SD
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN U HD
+https://tvpass.org/live/ESPNU/hd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN2 HD
+https://tvpass.org/live/ESPN2/hd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LIGA INGGRIS",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN SD
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN HD
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes SD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN Deportes SD
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes HD" tvg-logo="https://i.imgur.com/pm6ULZT.jpeg" group-title="BOLA | LIGA INGGRIS",ESPN Deportes HD
+https://tvpass.org/live/espn-deportes/hd
+
+
+
+=========================================================================================================
+LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-LIGA INGGRIS-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
 
 
 
@@ -7820,140 +7445,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | BUNDESLIGA",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-
 
 ==========
 LALIGA
@@ -7966,25 +7457,25 @@ KHUSUS DAZN | https://i.imgur.com/47pEsGf.png
 ==================
 NEW 4/5/2025
 ===========
-#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",038. SkySportsLaliga
+#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",SkySportsLaliga
 https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
 
-#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",067. ArenaPremium1
+#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",068. ArenaPremium2
+#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",ArenaPremium2
 https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",069. ArenaPremium3
+#EXTINF:-1 tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",ArenaPremium3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",070. ElevenSport1
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",ElevenSport1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",071. ElevenSport2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA",ElevenSport2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg " group-title="BOLA | LALIGA",072. ElevenSport3
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg " group-title="BOLA | LALIGA",ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
 #EXTINF:-1  tvg-name="Premier Sports 1 FHD" tvg-id="Premier.Sports.1.HD.ie" tvg-logo="logo="https://i.imgur.com/I7VEJ9V.jpeg" group-title="BOLA | LALIGA" radio="false",IRE: Premier Sports 1 FHD
@@ -8046,139 +7537,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | LALIGA",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 ==========
 END | LALIGA
 ===========
@@ -8214,27 +7572,30 @@ NEW 4/5/2025
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A"",067. ArenaPremium1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ArenaPremium1
 https://wahyu1ptv.pages.dev/ArenaPremium1-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",068. ArenaPremium2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ArenaPremium2
 https://wahyu1ptv.pages.dev/ArenaPremium2-HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",069. ArenaPremium3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ArenaPremium3
 https://wahyu1ptv.pages.dev/ArenaPremium3-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",070. ElevenSport1
+#EXTINF:-1 tvg-id="ElevenSport1" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ElevenSport1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",071. ElevenSport2
+#EXTINF:-1 tvg-id="ElevenSport2" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg" group-title="BOLA | SERIE A",ElevenSport2
 https://wahyu1ptv.pages.dev/ElevenSports2-HD.m3u8
 
-#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg " group-title="BOLA | SERIE A",072. ElevenSport3
+#EXTINF:-1 tvg-id="ElevenSport3" tvg-logo="https://i.imgur.com/m2PHbsg.jpeg " group-title="BOLA | SERIE A",ElevenSport3
 https://wahyu1ptv.pages.dev/ElevenSports3-HD.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",CBS Sports Golazo
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-===EDT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/81w3AhI.jpeg" group-title="BOLA | SERIE A",CBSSportsNetwork
+https://wahyu1ptv.pages.dev/CBSSportsNetwork-HD.m3u8
+
 
 ===============================================================================================================================================================
 FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT - FOOTBALL EVENT | START PROJECT 13/8/2025 
@@ -8260,139 +7621,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | SERIE A",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 ==========
 END | SERIE A
@@ -8506,139 +7734,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA NATIONS LEAGUE",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 
 ==========
@@ -8709,139 +7805,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA EROPA LEAGUE",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 
 ==========
@@ -8926,139 +7890,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 
-==========================
-DAZN
-==========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 1 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium445/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 2 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 3 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 4 Spain (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 1 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",DAZN 2 Bar DE (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-=========================
-ARENA SPORT
-=========================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Arena Sport 1 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Arena Sport 1 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium134/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 1 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/ 
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium429/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 2 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium433/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Arena Sport 2 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 2 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium430/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 3 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 3 Premium (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Arena Sport 3 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium431/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE" ,Arena Sport 4 Croatia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium580/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Arena Sport 4 Serbia (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium581/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Astro Grandstand (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Astro Footbal (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Astro Premier league 1 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8SK8A4.png" group-title="BOLA | UEFA CHAMPIONS LEAGUE",Astro Premier league 2 (AGF)
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 
 =======BOLA | AFC U17
@@ -9108,7 +7939,53 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 ---------NEW 3/6/2025
 
-30/7/2025 FIX 6:29 PM  sd
-LOGupdate liga inggris dsafad ffdssdgffdg fds
+======================================================================
+30/8/2025 LOG UPDATE |30/8/2025 LOG UPDATE |30/8/2025 LOG UPDATE |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+lIGA iNGGRIS,DUNIA,NASIONAL,GAYA HIDUP,PENGETAHUAN (ALMOST ALL TINGGAL CEK BOLA)
+======================================================================
+30/8/2025 LOG UPDATE |30/8/2025 LOG UPDATE |30/8/2025 LOG UPDATE |
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RGT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTM3U billed-msg="😎MASTER | lynk.id/magelife😎"
