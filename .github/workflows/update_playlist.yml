@@ -3,7 +3,7 @@ name: Auto Update Playlist
 on:
   workflow_dispatch: # Tombol untuk menjalankan manual
   schedule:
-    - cron: '0 18 * * *' # Menjalankan setiap hari jam 18:00 UTC (01:00 WIB)
+    - cron: '0 10 * * *' # Menjalankan setiap hari jam 18:00 UTC (01:00 WIB)
 
 jobs:
   update:
