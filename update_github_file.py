@@ -1,83 +1,73 @@
+#EXTINF:-1 group-logo="https://i.imgur.com/aVBedkE.jpeg",🔰 MAGELIFE OFFICIAL
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/aVBedkE.jpeg" group-title="🔰 CHAT ADMIN", CHAT ADMIN
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ CEK EMAIL KAMU 
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/DUIDZUC.jpeg" group-title="✅ CEK EMAIL KAMU", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ KALAU GA ADA 
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/DUIDZUC.jpeg" group-title="✅ KALAU GA ADA ", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ CHAT ADMIN KAMU
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bxkCZST.jpeg" group-title="✅ CHAT ADMIN KAMU ", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅ SILAHKAN RE ORDER
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ SILAHKAN RE ORDER", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅SILAHKAN RE ORDER OM
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ SILAHKAN RE ORDER OM", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅SILAHKAN RE ORDER TANTE
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅SILAHKAN RE ORDER TANTE", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", 📲 Wa 082219213334
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="📲 Wa 082219213334", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", 📲 Wa 082219213334 order
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="📲 Wa 082219213334 order", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg",✅ ORDER LYNK
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/PJ9tRpK.jpeg" group-title="✅ ORDER LYNK", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg",✅ https://lynk.id/magelife
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/PJ9tRpK.jpeg" group-title="✅ https://lynk.id/magelife", ORDER SHOPEE
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg", ✅ORDER SHOPEE 
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/EWttwBZ.jpeg" group-title="✅ ORDER SHOPEE", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg", ✅ https://shorturl.at/1r9BB
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/EWttwBZ.jpeg" group-title="✅ https://shorturl.at/1r9BB", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
 
-import os
-import requests
-from github import Github, GithubException
 
-# --- KONFIGURASI ---
-# Ganti dengan informasi Anda
-GITHUB_TOKEN = os.getenv('GITHUB_PAT')  # Ambil token dari environment variable, JANGAN HARDCODE DI SINI
-SOURCE_URL = "https://raw.githubusercontent.com/maywho5454/mastermaywo/main/mastermaywho"
-DEST_REPO = "Novantama/IPTV"  # Format: "username/repository"
-DEST_FILE_PATH = "Playlist/AllWorld.m3u"
-COMMIT_MESSAGE = "Auto update: Sync playlist from source"
-GIT_BRANCH = "Main" # Sesuaikan dengan nama branch Anda (misal: "main" atau "master")
 
-def get_source_content():
-    """Mengambil konten teks dari URL sumber."""
-    try:
-        print(f"Mengambil konten dari: {SOURCE_URL}...")
-        response = requests.get(SOURCE_URL)
-        response.raise_for_status()  # Cek jika ada error HTTP (spt 404)
-        print("Konten berhasil diambil.")
-        return response.text
-    except requests.exceptions.RequestException as e:
-        print(f"Error saat mengambil konten sumber: {e}")
-        return None
 
-def update_github_file():
-    """Memperbarui file di repositori GitHub tujuan."""
-    if not GITHUB_TOKEN:
-        print("Error: GITHUB_PAT environment variable belum diatur. Script tidak bisa berjalan.")
-        return
 
-    # 1. Ambil konten baru dari sumber
-    new_content = get_source_content()
-    if new_content is None:
-        return
 
-    try:
-        # 2. Autentikasi ke GitHub
-        g = Github(GITHUB_TOKEN)
-        repo = g.get_repo(DEST_REPO)
-        print(f"Berhasil terhubung ke repositori: {DEST_REPO}")
 
-        # 3. Dapatkan file yang ada untuk mendapatkan SHA-nya
-        try:
-            contents = repo.get_contents(DEST_FILE_PATH, ref=GIT_BRANCH)
-            sha = contents.sha
-            # Cek apakah kontennya sama untuk menghindari commit yang tidak perlu
-            if contents.decoded_content.decode('utf-8') == new_content:
-                print("Konten sudah yang terbaru. Tidak ada pembaruan yang diperlukan.")
-                return
-        except GithubException as e:
-            # Jika file tidak ditemukan, kita akan membuatnya (SHA tidak diperlukan)
-            if e.status == 404:
-                print(f"File '{DEST_FILE_PATH}' tidak ditemukan. Akan membuat file baru.")
-                repo.create_file(DEST_FILE_PATH,
-                                COMMIT_MESSAGE,
-                                new_content,
-                                branch=GIT_BRANCH)
-                print("File baru berhasil dibuat di GitHub.")
-                return
-            else:
-                raise # Lemparkan error lain
-
-        # 4. Update file yang sudah ada
-        print(f"Mencoba memperbarui file '{DEST_FILE_PATH}'...")
-        repo.update_file(contents.path,
-                        COMMIT_MESSAGE,
-                        new_content,
-                        sha,
-                        branch=GIT_BRANCH)
-
-        print("Pembaruan file berhasil di-commit ke GitHub!")
-
-    except GithubException as e:
-        print(f"Error pada API GitHub: {e}")
-    except Exception as e:
-        print(f"Terjadi error yang tidak terduga: {e}")
-
-if __name__ == "__main__":
-
-    update_github_file()
+#EXTM3U billed-msg="😢CHAT ADMIN 082219213334| lynk.id/magelife😎"
