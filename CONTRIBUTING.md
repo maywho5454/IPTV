@@ -1,70 +1,73 @@
-# Contributing to Playlist Sorter Script
+#EXTINF:-1 group-logo="https://i.imgur.com/aVBedkE.jpeg",🔰 MAGELIFE OFFICIAL
 
-Thank you for your interest in contributing to Playlist Sorter Script. We're excited to have you involved. Here are some guidelines to help you get started.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/aVBedkE.jpeg" group-title="🔰 CHAT ADMIN", CHAT ADMIN
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## How to Contribute
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ CEK EMAIL KAMU 
 
-1. **Fork this repository**
-   - Click the "Fork" button at the top right of this page.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/DUIDZUC.jpeg" group-title="✅ CEK EMAIL KAMU", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-2. **Clone your fork**
-   - Clone the repository to your local machine:
-     ```sh
-     git clone https://github.com/your-username/[Project Name].git
-     ```
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ KALAU GA ADA 
 
-3. **Create a feature branch**
-   - Create a new branch for your feature or bugfix:
-     ```sh
-     git checkout -b your-feature-branch
-     ```
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/DUIDZUC.jpeg" group-title="✅ KALAU GA ADA ", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-4. **Make your changes**
-   - Implement your changes to the codebase.
+#EXTINF:-1 group-logo="https://i.imgur.com/XXQ2pQ3.jpeg", ✅ CHAT ADMIN KAMU
 
-5. **Commit your changes**
-   - Commit your changes with a descriptive commit message:
-     ```sh
-     git commit -m "Brief description of your changes"
-     ```
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bxkCZST.jpeg" group-title="✅ CHAT ADMIN KAMU ", Kalau ga ada chat admni
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-6. **Push to GitHub**
-   - Push your branch to your forked repository:
-     ```sh
-     git push origin your-feature-branch
-     ```
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅ SILAHKAN RE ORDER
 
-7. **Open a Pull Request**
-   - Go to the original repository and click the "New Pull Request" button.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ SILAHKAN RE ORDER", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## Code Style Guidelines
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅SILAHKAN RE ORDER OM
 
-- Follow the code style standards used in this project.
-- Use clear and descriptive comments to explain complex code sections.
-- Ensure your code is formatted properly before submitting.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅ SILAHKAN RE ORDER OM", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## Testing
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", ✅SILAHKAN RE ORDER TANTE
 
-- Ensure all your changes are well-tested.
-- If you add a new feature, please add corresponding tests.
-- Run all existing tests to ensure they pass before submitting your pull request.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="✅SILAHKAN RE ORDER TANTE", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## Issues and Discussions
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", 📲 Wa 082219213334
 
-- If you find a bug, open a new issue on the [Issues] (https://github.com/Novantama/IPTV/issues/) page.
-- For discussing new features or enhancements, start a new discussion or join an existing one.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="📲 Wa 082219213334", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## Documentation
+#EXTINF:-1 group-logo="https://i.imgur.com/bjfYe6g.jpegg", 📲 Wa 082219213334 order
 
-- Update documentation to reflect any changes that affect users.
-- Documentation is typically found in the `docs` folder or the `README.md` file.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/bjfYe6g.jpeg" group-title="📲 Wa 082219213334 order", SILAHKAN RE ORDER
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## Code of Conduct
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg",✅ ORDER LYNK
 
-Please read and understand our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to these guidelines in all interactions within the project.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/PJ9tRpK.jpeg" group-title="✅ ORDER LYNK", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-## License
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg",✅ https://lynk.id/magelife
 
-By contributing to this project, you agree that your contributions will be licensed under the MIT License as stated in the project.
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/PJ9tRpK.jpeg" group-title="✅ https://lynk.id/magelife", ORDER SHOPEE
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-Thank you for contributing!
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg", ✅ORDER SHOPEE 
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/EWttwBZ.jpeg" group-title="✅ ORDER SHOPEE", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.imgur.com/PJ9tRpK.jpeg", ✅ https://shorturl.at/1r9BB
+
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="https://i.imgur.com/EWttwBZ.jpeg" group-title="✅ https://shorturl.at/1r9BB", ORDER LYNK
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U billed-msg="😢CHAT ADMIN 082219213334| lynk.id/magelife😎"
